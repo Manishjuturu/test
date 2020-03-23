@@ -1,0 +1,13 @@
+2020-03-03 14:38:46,387  INFO [main] log4jDemo:14 - URL LAUNCHED
+2020-03-03 14:39:18,927  INFO [main] log4jDemo:14 - URL LAUNCHED
+2020-03-03 14:39:18,940  WARN [main] log4jDemo:18 - check title
+2020-03-03 14:39:18,940 ERROR [main] log4jDemo:29 - The URL is not correct
+2020-03-03 14:44:26,020  INFO [main] log4jDemo:14 - URL LAUNCHED
+2020-03-03 14:44:26,079  WARN [main] log4jDemo:18 - check title
+2020-03-03 14:44:26,080 ERROR [main] log4jDemo:29 - The URL is not correct
+2020-03-03 14:44:26,503  INFO [main] log4jDemo:14 - URL LAUNCHED
+2020-03-03 14:44:26,518  WARN [main] log4jDemo:18 - check title
+2020-03-03 14:44:26,518 ERROR [main] log4jDemo:29 - The URL is not correct
+2020-03-03 14:44:27,788  INFO [main] log4jDemo:14 - URL LAUNCHED
+2020-03-03 14:44:27,802  WARN [main] log4jDemo:18 - check title
+2020-03-03 14:44:27,802 ERROR [main] log4jDemo:29 - The URL is not correct
